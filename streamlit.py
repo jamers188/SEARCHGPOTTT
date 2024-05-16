@@ -10,7 +10,7 @@ from textblob import TextBlob
 
 st.set_page_config(layout="wide")
 
-image = Image.open('Mental Health (1).png')
+image = Image.open('Studio-Project (2).png')
 st.sidebar.image(image)
 
 image = Image.open('header.png')
