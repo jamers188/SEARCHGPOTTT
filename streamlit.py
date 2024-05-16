@@ -13,7 +13,7 @@ st.set_page_config(layout="wide")
 image = Image.open('Studio-Project (2).png')
 st.sidebar.image(image)
 
-image = Image.open('header.png')
+image = Image.open('Studio-Project (2).png')
 
 st.image(image, caption=' ')
 t=0
