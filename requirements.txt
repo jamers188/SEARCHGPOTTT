@@ -1,0 +1,9 @@
+
+streamlit-chat
+streamlit
+transformers
+torch
+torchvision
+torchaudio
+Pillow
+textblob
