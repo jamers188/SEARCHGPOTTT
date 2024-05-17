@@ -14,7 +14,7 @@ st.sidebar.success("Select an App")
 # page_bg_img = """
 # <style>
 # [data-testid="stAppViewContainer"] {
-# background-image url("https://images.unsplash.com/photo-1490633874781-1c63cc424610?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+# background-image url("https://unsplash.com/photos/LHaKa8nYy-0?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash");
 # background-size: cover;
 # }
 # <style>
