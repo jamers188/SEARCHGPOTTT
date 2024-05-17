@@ -33,7 +33,7 @@ def add_bg_from_url():
          background-color: rgba(0,0,0,0);
          }}
          [data-testid="stSidebar"] {{
-         background-image: url("https://images.unsplash.com/photo-1487528742387-d53d4f12488d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1922&q=80");
+         background-image: url("https://unsplash.com/photos/LHaKa8nYy-0?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash");
          background-size: cover;
          }}
          </style>
