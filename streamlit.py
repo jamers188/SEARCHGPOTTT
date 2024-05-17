@@ -25,7 +25,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://unsplash.com/photos/city-skyline-during-night-time-GLAPpIlEYKQ");
+             background-image: url("https://unsplash.com/photos/LHaKa8nYy-0");
              background-attachment: fixed;
              background-size: cover
          }}
