@@ -1,9 +1,5 @@
-
-streamlit-chat
-streamlit
-transformers
-torch
-torchvision
-torchaudio
-Pillow
-textblob
+wordnet
+pros_cons
+reuters
+stopwords
+punkt
